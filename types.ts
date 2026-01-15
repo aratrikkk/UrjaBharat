@@ -26,3 +26,5 @@ export interface KPIStats {
   efficiency: number;
   annualProjectedSavings: number;
 }
+
+export type ViewType = 'dashboard' | 'assets' | 'audit' | 'maintenance' | 'ai-lab';
