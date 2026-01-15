@@ -1,4 +1,4 @@
-# Bharat Energy Dynamics: AI-Based Decision Support System (DSS)
+# Bharat Energy Dynamics: Energy Based Decision Support System (DSS)
 
 **An Intelligent Operational Gateway for Industrial Energy Optimization**
 
@@ -58,7 +58,7 @@ The system prioritizes financial transparency. Based on industrial benchmarks:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bharat-energy-dss.git
+   git clone https://github.com/aratrikkk/UrjaBharat.git
    ```
 2. Set up environment variables:
    * Create a `.env` file and add: `API_KEY=your_gemini_api_key_here`
