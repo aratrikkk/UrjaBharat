@@ -1,6 +1,6 @@
 
-export const ELECTRICITY_COST_KWH = 0.085; // $ per kWh
-export const COMPRESSOR_MAX_POWER = 450; // kW
+export const ELECTRICITY_COST_KWH = 0.085; 
+export const COMPRESSOR_MAX_POWER = 450; 
 export const OPTIMAL_EFFICIENCY = 0.92;
 export const HOURS_PER_YEAR = 8760;
 
