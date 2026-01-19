@@ -14,7 +14,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Custom Scrollbar for the entire app if needed, or specific containers */
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
@@ -44,7 +43,6 @@ body {
   border-radius: 10px;
 }
 
-/* Animations */
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
